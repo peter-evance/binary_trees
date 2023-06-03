@@ -60,7 +60,7 @@ You can also integrate the binary trees code into your own C projects by includi
 
 ## Contributing
 
-This repository is owned by [Amos Wachira](https://github.com/AMO15310) and [Michael Gichamu](https://Michael-Gichamu) and are the only contributors to the repository
+This repository is owned by [Peter Evance](https://github.com/peter-evance) and is the only contributor to the repository
 
 ## License
 
